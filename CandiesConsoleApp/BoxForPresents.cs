@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace CandiesConsoleApp
 {
-    class Program
+    class BoxForPresents
     {
-        private static void Main(string[] args)
-        {
 
-        }
     }
 }

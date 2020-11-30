@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace CandiesConsoleApp
 {
-    class Program
+    class Waffles:Candy, IComparable<NewYearsSweets>
     {
-        private static void Main(string[] args)
+        public int CompareTo(NewYearsSweets other)
         {
-
+            return this.SugarPercentage.CompareTo(other.SugarPercentage);
         }
     }
 }

@@ -43,11 +43,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BoxForPresents.cs" />
+    <Compile Include="Candy.cs" />
+    <Compile Include="ChokolateBar.cs" />
+    <Compile Include="ChokolateCookie.cs" />
+    <Compile Include="ChokolatуCandy.cs" />
+    <Compile Include="DarkChokolateBar.cs" />
+    <Compile Include="MilkChokolateBar.cs" />
+    <Compile Include="NewYearsSweets.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Waffles.cs" />
+    <Compile Include="Сookie.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".editorconfig" />
     <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="stylecop.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="packages\StyleCop.Analyzers.1.1.118\analyzers\dotnet\cs\StyleCop.Analyzers.CodeFixes.dll" />
+    <Analyzer Include="packages\StyleCop.Analyzers.1.1.118\analyzers\dotnet\cs\StyleCop.Analyzers.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
