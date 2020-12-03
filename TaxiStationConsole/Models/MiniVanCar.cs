@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TaxiStationConsole
+namespace TaxiStationConsole.Models
 {
-    class Program
+    class MiniVanCar
     {
-        static void Main(string[] args)
-        {
-           
-        }
     }
 }
