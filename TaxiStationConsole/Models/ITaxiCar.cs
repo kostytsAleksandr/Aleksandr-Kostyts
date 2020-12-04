@@ -18,6 +18,11 @@
         string Name { get; }
 
         /// <summary>
+        /// Gets Type body of taxi car.
+        /// </summary>
+        string BodyType { get; }
+
+        /// <summary>
         /// Gets Created company of taxi car.
         /// </summary>
         string CreatedBy { get; }

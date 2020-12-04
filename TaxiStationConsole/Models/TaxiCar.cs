@@ -11,33 +11,39 @@
     /// </summary>
     public abstract class TaxiCar : ITaxiCar, IComparable
     {
-        private readonly string _name;
-        private readonly string _createdBy;
-        private readonly Country _createdCountry;
-        private readonly decimal _price;
-        private readonly float _fuelConsumption;
+        private readonly string name;
+        private readonly string bodyType;
+        private readonly string createdBy;
+        private readonly Country createdCountry;
+        private readonly decimal price;
+        private readonly float fuelConsumption;
 
         /// <summary>
         /// Initializes a new instance of the <see cref="TaxiCar"/> class.
         /// </summary>
-        /// <param name="name">name.</param>
-        /// <param name="createdBy">created by.</param>
-        /// <param name="createdCountry">created country.</param>
-        /// <param name="price">price.</param>
-        /// <param name="fuelConsumption">fuel consumption.</param>
-        protected TaxiCar(string name, string createdBy, Country createdCountry, decimal price, float fuelConsumption)
+        /// <param name="aName">name.</param>
+        /// <param name="aCreatedBy">created by.</param>
+        /// <param name="aCreatedCountry">created country.</param>
+        /// <param name="aPrice">price.</param>
+        /// <param name="aFuelConsumption">fuel consumption.</param>
+        protected TaxiCar(string aName, string aCreatedBy, Country aCreatedCountry, decimal aPrice, float aFuelConsumption)
         {
-            this._name = name;
-            this._createdBy = createdBy;
-            this._createdCountry = createdCountry;
-            this._price = price;
-            this._fuelConsumption = fuelConsumption;
+            this.name = aName;
+            this.createdBy = aCreatedBy;
+            this.createdCountry = aCreatedCountry;
+            this.price = aPrice;
+            this.fuelConsumption = aFuelConsumption;
         }
 
         /// <summary>
         /// Gets Name.
         /// </summary>
-        public abstract string Name { get; }
+        public string Name { get; }
+
+        /// <summary>
+        /// Gets Name.
+        /// </summary>
+        public abstract string BodyType { get; }
 
         /// <summary>
         /// Gets Created by.
@@ -67,8 +73,14 @@
         public int CompareTo(object car)
         {
             var carTaxi = car as TaxiCar;
-            return carTaxi != null ? this._fuelConsumption.CompareTo(carTaxi._fuelConsumption)
+            return carTaxi != null ? this.fuelConsumption.CompareTo(carTaxi.fuelConsumption)
                 : throw new Exception("I can't compare, Argument must be TaxiCar");
         }
+
+       /// <summary>
+       /// Shows car information.
+       /// </summary>
+       /// <returns>car info.</returns>
+        public abstract string ShowCarInfo();
     }
 }
