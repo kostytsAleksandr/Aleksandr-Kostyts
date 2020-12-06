@@ -12,7 +12,6 @@
     public abstract class TaxiCar : ITaxiCar, IComparable
     {
         private readonly string name;
-        private readonly string bodyType;
         private readonly string createdBy;
         private readonly Country createdCountry;
         private readonly decimal price;
@@ -38,7 +37,7 @@
         /// <summary>
         /// Gets Name.
         /// </summary>
-        public string Name { get; }
+        public string Name => this.name;
 
         /// <summary>
         /// Gets Name.
@@ -48,7 +47,7 @@
         /// <summary>
         /// Gets Created by.
         /// </summary>
-        public string CreatedBy { get; }
+        public string CreatedBy => this.createdBy;
 
         /// <summary>
         /// Gets Created country.
@@ -58,12 +57,12 @@
         /// <summary>
         /// Gets price.
         /// </summary>
-        public decimal Price { get; }
+        public decimal Price => this.price;
 
         /// <summary>
         /// Gets fuel consumption.
         /// </summary>
-        public float FuelConsumption { get; }
+        public float FuelConsumption => this.fuelConsumption;
 
         /// <summary>
         /// Method wich compare TaxiCars by fuel consumption.

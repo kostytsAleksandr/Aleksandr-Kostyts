@@ -1,12 +1,12 @@
-﻿namespace TaxiStationConsole.Models
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-    using TaxiStationConsole.Enums;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using TaxiStationConsole.Enums;
 
+namespace TaxiStationConsole.Models
+{
     /// <summary>
     /// MiniVan Car.
     /// </summary>
