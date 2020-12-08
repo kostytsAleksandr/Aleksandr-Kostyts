@@ -1,0 +1,7 @@
+C:\Users\Aleksandr\source\repos\Aleksandr\LoggerConsole\bin\Debug\LoggerConsole.exe.config
+C:\Users\Aleksandr\source\repos\Aleksandr\LoggerConsole\bin\Debug\LoggerConsole.exe
+C:\Users\Aleksandr\source\repos\Aleksandr\LoggerConsole\bin\Debug\LoggerConsole.pdb
+C:\Users\Aleksandr\source\repos\Aleksandr\LoggerConsole\obj\Debug\LoggerConsole.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Aleksandr\LoggerConsole\obj\Debug\LoggerConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Aleksandr\LoggerConsole\obj\Debug\LoggerConsole.exe
+C:\Users\Aleksandr\source\repos\Aleksandr\LoggerConsole\obj\Debug\LoggerConsole.pdb

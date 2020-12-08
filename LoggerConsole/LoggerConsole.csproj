@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BFC428FE-5478-437A-93A3-816BF74D49A9}</ProjectGuid>
+    <ProjectGuid>{D9021FF9-1975-4717-8E75-9877FC03CED2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TaxiStationConsole</RootNamespace>
-    <AssemblyName>TaxiStationConsole</AssemblyName>
+    <RootNamespace>LoggerConsole</RootNamespace>
+    <AssemblyName>LoggerConsole</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,15 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\TaxiStation.cs" />
-    <Compile Include="Enums\Country.cs" />
-    <Compile Include="Models\HachBackCar.cs" />
-    <Compile Include="Models\ITaxiCar.cs" />
-    <Compile Include="Models\MiniVanCar.cs" />
-    <Compile Include="Models\SedanCar.cs" />
-    <Compile Include="Models\TaxiCar.cs" />
-    <Compile Include="Services\Program.cs" />
+    <Compile Include="Enums\TypeLogs.cs" />
+    <Compile Include="Exceptions\BusinessException.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\Actions.cs" />
+    <Compile Include="Services\FileService.cs" />
+    <Compile Include="Services\Logger.cs" />
     <Compile Include="Services\Starter.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -62,6 +60,5 @@
     <Analyzer Include="packages\StyleCop.Analyzers.1.1.118\analyzers\dotnet\cs\StyleCop.Analyzers.CodeFixes.dll" />
     <Analyzer Include="packages\StyleCop.Analyzers.1.1.118\analyzers\dotnet\cs\StyleCop.Analyzers.dll" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
