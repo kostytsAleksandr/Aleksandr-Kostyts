@@ -1,0 +1,7 @@
+C:\Users\Aleksandr\source\repos\Aleksandr\TaxiStationConsole\obj\Debug\TaxiStationConsole.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Aleksandr\TaxiStationConsole\obj\Debug\TaxiStationConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Aleksandr\TaxiStationConsole\bin\Debug\TaxiStationConsole.exe.config
+C:\Users\Aleksandr\source\repos\Aleksandr\TaxiStationConsole\bin\Debug\TaxiStationConsole.exe
+C:\Users\Aleksandr\source\repos\Aleksandr\TaxiStationConsole\bin\Debug\TaxiStationConsole.pdb
+C:\Users\Aleksandr\source\repos\Aleksandr\TaxiStationConsole\obj\Debug\TaxiStationConsole.exe
+C:\Users\Aleksandr\source\repos\Aleksandr\TaxiStationConsole\obj\Debug\TaxiStationConsole.pdb
