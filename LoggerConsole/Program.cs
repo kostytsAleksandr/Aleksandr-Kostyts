@@ -1,15 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LoggerConsole
+﻿namespace LoggerConsole
 {
-    class Program
+    using LoggerConsole.Services;
+
+    /// <summary>
+    /// Start Program.
+    /// </summary>
+    public class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// Inputs point to program.
+        /// </summary>
+        /// <param name="args">params.</param>
+        private static void Main(string[] args)
         {
+            Starter starter = new Starter();
         }
     }
 }
