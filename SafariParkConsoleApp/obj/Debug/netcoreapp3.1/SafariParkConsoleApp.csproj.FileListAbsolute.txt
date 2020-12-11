@@ -1,0 +1,13 @@
+C:\Users\Aleksandr\source\repos\Aleksandr\SafariParkConsoleApp\obj\Debug\netcoreapp3.1\SafariParkConsoleApp.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Aleksandr\SafariParkConsoleApp\obj\Debug\netcoreapp3.1\SafariParkConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\Aleksandr\SafariParkConsoleApp\obj\Debug\netcoreapp3.1\SafariParkConsoleApp.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\Aleksandr\SafariParkConsoleApp\obj\Debug\netcoreapp3.1\SafariParkConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Aleksandr\SafariParkConsoleApp\bin\Debug\netcoreapp3.1\SafariParkConsoleApp.exe
+C:\Users\Aleksandr\source\repos\Aleksandr\SafariParkConsoleApp\bin\Debug\netcoreapp3.1\SafariParkConsoleApp.deps.json
+C:\Users\Aleksandr\source\repos\Aleksandr\SafariParkConsoleApp\bin\Debug\netcoreapp3.1\SafariParkConsoleApp.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\Aleksandr\SafariParkConsoleApp\bin\Debug\netcoreapp3.1\SafariParkConsoleApp.runtimeconfig.dev.json
+C:\Users\Aleksandr\source\repos\Aleksandr\SafariParkConsoleApp\bin\Debug\netcoreapp3.1\SafariParkConsoleApp.dll
+C:\Users\Aleksandr\source\repos\Aleksandr\SafariParkConsoleApp\bin\Debug\netcoreapp3.1\SafariParkConsoleApp.pdb
+C:\Users\Aleksandr\source\repos\Aleksandr\SafariParkConsoleApp\obj\Debug\netcoreapp3.1\SafariParkConsoleApp.dll
+C:\Users\Aleksandr\source\repos\Aleksandr\SafariParkConsoleApp\obj\Debug\netcoreapp3.1\SafariParkConsoleApp.pdb
+C:\Users\Aleksandr\source\repos\Aleksandr\SafariParkConsoleApp\obj\Debug\netcoreapp3.1\SafariParkConsoleApp.genruntimeconfig.cache

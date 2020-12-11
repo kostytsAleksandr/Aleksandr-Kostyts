@@ -1,12 +1,21 @@
-﻿using System;
-
-namespace SafariParkConsoleApp
+﻿namespace SafariParkConsoleApp
 {
-    class Program
+    using System;
+    using SafariParkConsoleApp.Services;
+
+    /// <summary>
+    /// Class wich starts.
+    /// </summary>
+    public class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// Point input to program.
+        /// </summary>
+        /// <param name="args">params.</param>
+        private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Starter starter = new Starter();
+            starter.Run();
         }
     }
 }
