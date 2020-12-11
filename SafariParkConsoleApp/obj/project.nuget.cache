@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ne7At+qKLw0PQ4z0tXG0xhtNKEXB9pofLx+QmKNqBT1ryvCko+4usmUa96wTt8ybw0sh5aWC41I3+M3ptwPDrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aleksandr\\source\\repos\\Aleksandr\\SafariParkConsoleApp\\SafariParkConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksandr\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
