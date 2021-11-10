@@ -1,0 +1,10 @@
+C:\Users\Aleksandr\source\repos\Aleksandr\MyLoggerConsoleApp\bin\Debug\MyLoggerConsoleApp.exe.config
+C:\Users\Aleksandr\source\repos\Aleksandr\MyLoggerConsoleApp\bin\Debug\MyLoggerConsoleApp.exe
+C:\Users\Aleksandr\source\repos\Aleksandr\MyLoggerConsoleApp\bin\Debug\MyLoggerConsoleApp.pdb
+C:\Users\Aleksandr\source\repos\Aleksandr\MyLoggerConsoleApp\bin\Debug\LoggerLogicLibruary.dll
+C:\Users\Aleksandr\source\repos\Aleksandr\MyLoggerConsoleApp\bin\Debug\LoggerLogicLibruary.pdb
+C:\Users\Aleksandr\source\repos\Aleksandr\MyLoggerConsoleApp\obj\Debug\MyLoggerConsoleApp.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Aleksandr\MyLoggerConsoleApp\obj\Debug\MyLoggerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Aleksandr\MyLoggerConsoleApp\obj\Debug\MyLoggerConsoleApp.csproj.CopyComplete
+C:\Users\Aleksandr\source\repos\Aleksandr\MyLoggerConsoleApp\obj\Debug\MyLoggerConsoleApp.exe
+C:\Users\Aleksandr\source\repos\Aleksandr\MyLoggerConsoleApp\obj\Debug\MyLoggerConsoleApp.pdb

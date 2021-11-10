@@ -1,0 +1,6 @@
+C:\Users\Aleksandr\source\repos\Aleksandr\LoggerLogicLibruary\obj\Debug\LoggerLogicLibruary.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Aleksandr\LoggerLogicLibruary\obj\Debug\LoggerLogicLibruary.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Aleksandr\LoggerLogicLibruary\bin\Debug\LoggerLogicLibruary.dll
+C:\Users\Aleksandr\source\repos\Aleksandr\LoggerLogicLibruary\bin\Debug\LoggerLogicLibruary.pdb
+C:\Users\Aleksandr\source\repos\Aleksandr\LoggerLogicLibruary\obj\Debug\LoggerLogicLibruary.dll
+C:\Users\Aleksandr\source\repos\Aleksandr\LoggerLogicLibruary\obj\Debug\LoggerLogicLibruary.pdb
