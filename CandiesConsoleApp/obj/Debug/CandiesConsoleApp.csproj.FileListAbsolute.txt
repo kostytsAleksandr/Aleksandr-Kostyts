@@ -1,0 +1,2 @@
+C:\Users\Aleksandr\source\repos\Aleksandr\CandiesConsoleApp\obj\Debug\CandiesConsoleApp.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Aleksandr\CandiesConsoleApp\obj\Debug\CandiesConsoleApp.csproj.CoreCompileInputs.cache
